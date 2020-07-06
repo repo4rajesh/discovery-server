@@ -63,7 +63,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>C:\Users\admin\.m2\repository</url>
+         <url>C:/Users/admin/.m2/repository</url>
        </repository>
    </distributionManagement>
 </project>
