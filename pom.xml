@@ -63,7 +63,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>D:\workspaces\build</url>
+         <url>D:/workspaces/build</url>
        </repository>
    </distributionManagement>
 </project>
